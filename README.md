@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and python
 - 💞️ I’m looking to collaborate on web designing!
 - 📫 How to reach me you can reach me throught discord and github both! 
- Discord user id:- @Eren Yeager#9392
+ Discord user id:- @ArataDesu#9392
  Github Useri id:- @ArataDesu2246
 
 <!---
